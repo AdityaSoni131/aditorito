@@ -56,7 +56,7 @@
 
 <table>
   <tr>
-    <td><img src=https://github-readme-stats.vercel.app/api?username=aditorito&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AdityaSoni131&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"  display=block width=100% height=auto alt="1"</td>
     <td><img align="center" src="https://streak-stats.demolab.com?user=aditorito%20&type=png(https://git.io/streak-stats)" alt="pratikgarai" /></td>
    </tr>
     <tr>
